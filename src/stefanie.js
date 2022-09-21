@@ -1,3 +1,3 @@
 {
-	"name": "Stefanie Bot Multi Device "
+	"name": "Simple Whatsapp bot"
 }
